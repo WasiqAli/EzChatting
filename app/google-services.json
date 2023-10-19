@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "173688369932",
+    "project_id": "ezchatting-40997",
+    "storage_bucket": "ezchatting-40997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173688369932:android:2ffb903373592deadb8f29",
+        "android_client_info": {
+          "package_name": "com.wasiq.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173688369932-8e1k3ormb22on9k5vipknkketi5bh06a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wasiq.we_chat",
+            "certificate_hash": "f476454e8ab6df5d3e5ab911ef90c86e944b8a1b"
+          }
+        },
+        {
+          "client_id": "173688369932-ir8rvb9quhoj7ss4ukinehsq5g3b284r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSkrrNzHTe247ApmlEa-h_VKpf9rF8IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173688369932-ir8rvb9quhoj7ss4ukinehsq5g3b284r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173688369932-cl1vsrcg6cfre2n0qq9nesd2cisju7jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wasiqAli.weChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
